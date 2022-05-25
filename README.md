@@ -1,4 +1,4 @@
-hell Basics Tasks
+Shell Basics Tasks
 
 0 - pwd     this is used to print the absolute path name of the working directory
 
